@@ -1,11 +1,11 @@
 # Hi there! 
 
-Welcome to my GitHub profile! My name is [Your Name], and I am a [Your Profession/Field] based in [Your Location]. Here, you'll find some of my personal projects, experiments, and contributions to the open-source community.
+Welcome to my GitHub profile! My name is Rui Guo, and I am a graduated student based in ShangHai. Here, you'll find some of my personal projects, experiments, and contributions to the open-source community.
 
 ## About Me
 
-- 🔭 I’m currently working on [Current Project] 
-- 🌱 I’m currently learning [Current Focus Area] 
+- 🔭 I’m currently working on SIMIT 
+- 🌱 I’m currently learning Target recognition and localization 
 -  I’m looking to collaborate on [Collaboration Interests] 
 - 🤔 I’m looking for help with [Help Needed Area] 
 - 💬 Ask me about [Areas of Expertise] 
