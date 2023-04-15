@@ -17,8 +17,8 @@ Welcome to my GitHub profile! My name is Rui Guo, and I am a graduated student b
 
 Here are some of my notable projects:
 
-- [Project 1](Link to Project 1) - Brief description of Project 1
-- [Project 2](Link to Project 2) - Brief description of Project 2
+- [EFUSE ctrl module](Link to Project 1) - Brief description of Project 1
+- [Frequency test module](Link to Project 2) - Brief description of Project 2
 - [Project 3](Link to Project 3) - Brief description of Project 3
 
 ## Contributions
@@ -31,16 +31,14 @@ I am passionate about open-source software, and here are some of my contribution
 
 ## Skills
 
-- [Skill 1]
-- [Skill 2]
-- [Skill 3]
-- [Skill 4]
-- [Skill 5]
+- [Verilog]
+- [C]
+- [Matlab]
 
 ## Education
 
-- [Degree], [Major], [University], [Graduation Year]
-- [Degree], [Major], [University], [Graduation Year]
+- [Bachelor], [EE], [SHU], [2022]
+- [Master], [EE], [UCAS], [2025]
 
 ## Interests
 
